@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">SVSU Course Lookup</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="courseTypeText">Select Course Type:</string>
+    <string name="courseNumberText">Enter Course Number:</string>
+    <string name="searchButtonText">Search for Course</string>
+    <string name="instructors">Instructors:</string>
+
+    <string-array name="coursePrefixList">
+        <item>ACCT</item>
+        <item>AGS</item>
+        <item>ART</item>
+        <item>BIOL</item>
+        <item>BL</item>
+        <item>BLS</item>
+        <item>CHEM</item>
+        <item>CIS</item>
+        <item>CJ</item>
+        <item>COMM</item>
+        <item>CS</item>
+        <item>ECE</item>
+        <item>ECON</item>
+        <item>EDL</item>
+        <item>ENGL</item>
+        <item>ETM</item>
+        <item>FIN</item>
+        <item>FREN</item>
+        <item>GEOG</item>
+        <item>GER</item>
+        <item>GS</item>
+        <item>HIST</item>
+        <item>HON</item>
+        <item>HS</item>
+        <item>HUM</item>
+        <item>JAPN</item>
+        <item>KINE</item>
+        <item>LAT</item>
+        <item>LAW</item>
+        <item>LS</item>
+        <item>MATH</item>
+        <item>ME</item>
+        <item>MFL</item>
+        <item>MGT</item>
+        <item>MKT</item>
+        <item>MLS</item>
+        <item>MUS</item>
+        <item>MUSE</item>
+        <item>NURS</item>
+        <item>OT</item>
+        <item>PHIL</item>
+        <item>PHYS</item>
+        <item>PLSH</item>
+        <item>PS</item>
+        <item>PSYC</item>
+        <item>RFS</item>
+        <item>RPW</item>
+        <item>RS</item>
+        <item>SOC</item>
+        <item>SPAN</item>
+        <item>SW</item>
+        <item>TE</item>
+        <item>TEMS</item>
+        <item>THEA</item>
+        <item>YS</item>
+    </string-array>
+</resources>

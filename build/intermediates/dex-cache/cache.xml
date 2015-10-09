@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zmmetiva/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/home/zmmetiva/AndroidStudioProjects/CourseLookup/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-2674aaf1c46e4d1bb18c526fcfb706e9fc72300d.jar" />
+    </item>
+
+</items>
